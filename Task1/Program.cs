@@ -2,5 +2,5 @@
 Console.WriteLine("Херсон наш!");
 Console.WriteLine("Слава Україні!");
 Console.WriteLine("Героям слава!");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Слава нації!");
+Console.WriteLine("Смерть ворогам!");
